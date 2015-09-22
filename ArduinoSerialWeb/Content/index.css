@@ -1,0 +1,41 @@
+﻿.redButton {
+	-moz-box-shadow: 0px 0px 0px 0px #3dc21b;
+	-webkit-box-shadow: 0px 0px 0px 0px #3dc21b;
+	box-shadow: 0px 0px 0px 0px #3dc21b;
+	background-color:#d40000;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	border-radius:4px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:23px;
+	padding:16px 33px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.redButton:hover {
+	background-color:#e30909;
+}
+.redButton:active {
+	position:relative;
+	top:1px;
+}
+
+section {
+    width:350px;
+    float:left;
+    display:block;
+    padding:10px;
+    margin:10px;
+}
+
+nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;
+}
